@@ -52,7 +52,7 @@ export default function App() {
         {/* topbar */}
         <div style={{ background: "#DDD0C0", borderBottom: "1px solid #BFB09A", padding: "14px 40px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <div style={{ fontFamily: "'Playfair Display', serif", fontSize: 26, color: "#3D2E1E" }}>
-            reflect<span style={{ color: "#9B7D5A" }}>.</span>
+            HuskiesReflect
           </div>
           <div style={{ display: "flex", gap: 4 }}>
             {["write", "entries", "insights"].map(t => (
